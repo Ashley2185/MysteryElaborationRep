@@ -1,0 +1,1 @@
+ghostkam_speed = 5;
