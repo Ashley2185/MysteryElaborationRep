@@ -6,8 +6,8 @@
   "name":"obj_mom",
   "overriddenProperties":[],
   "parent":{
-    "name":"People",
-    "path":"folders/Objects/People.yy",
+    "name":"Evidence",
+    "path":"folders/Objects/Evidence.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spencer",
-    "path":"sprites/Spencer/Spencer.yy",
+    "name":"Mom",
+    "path":"sprites/Mom/Mom.yy",
   },
   "spriteMaskId":null,
   "visible":true,

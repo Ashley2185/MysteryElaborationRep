@@ -9,8 +9,8 @@
   "name":"obj_kam",
   "overriddenProperties":[],
   "parent":{
-    "name":"People",
-    "path":"folders/Objects/People.yy",
+    "name":"Evidence",
+    "path":"folders/Objects/Evidence.yy",
   },
   "parentObjectId":null,
   "persistent":false,

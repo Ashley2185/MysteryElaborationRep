@@ -6,8 +6,8 @@
   "name":"obj_lamp",
   "overriddenProperties":[],
   "parent":{
-    "name":"Furniture",
-    "path":"folders/Objects/Furniture.yy",
+    "name":"Evidence",
+    "path":"folders/Objects/Evidence.yy",
   },
   "parentObjectId":null,
   "persistent":false,
